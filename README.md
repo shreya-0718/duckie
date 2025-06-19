@@ -14,7 +14,12 @@ This is just a little duck keychain whose eyes light up when the button is press
 - 1x Battery Holder
 
 ### Screenshots :)
-![image](https://github.com/user-attachments/assets/ef92c0d4-8243-40a7-91d1-10e74985369c)
-![image (1)](https://github.com/user-attachments/assets/9948800c-3e41-4fc8-8849-43ed52423cd6)
-![image (2)](https://github.com/user-attachments/assets/f22d2725-9676-472c-837e-b866b4ab8f3b)
-![image (3)](https://github.com/user-attachments/assets/74a65095-6055-4cc0-b325-2860090478ff)
+
+![final schematic](<images/final_schem.png>)
+
+![pcb preview](<images/pcb_preview.png>)
+
+![final pcb 3d model - back](<images/final_3d_back.png>)
+
+![final pcb 3d model - front](<images/final_3d_front.png>)
+
