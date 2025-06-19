@@ -21,7 +21,7 @@ This is just a little duck keychain whose eyes light up when the button is press
 
 ![pcb preview](<images/pcb_preview.png>)
 
-![final pcb 3d model - front](<images/final_3d_front.png>)
+![final pcb 3d model - front](<images/final_3d_front.jpeg>)
 
 ![final pcb 3d model - back](<images/final_3d_back.png>)
 

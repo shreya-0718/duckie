@@ -54,6 +54,6 @@ Then placed and traced the two new components on the actual PCB:
 
 ![pcb preview](<images/pcb_preview.png>)
 
-![final pcb 3d model](<images/final_3d.png>)
+![final pcb 3d model](<images/final_3d_front.jpeg>)
 
 And NOW… I’m done!!
