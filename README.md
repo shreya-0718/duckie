@@ -16,3 +16,9 @@ This is just a little duck keychain whose eyes light up when the button is press
 - 1x Potentiometer
 
 ### Screenshots :)
+
+![final schematic](<images/final_schem.png>)
+
+![pcb preview](<images/pcb_preview.png>)
+
+![final pcb 3d model - back](<images/final_3d.png>)
