@@ -43,3 +43,17 @@ And… here is the final product!!
 ### oh wait one last thing…
 
 Almost forgot! This is a gift, so I’ll put a keychain hole on it.
+
+### one more last thing (1 hr)
+
+I added a potentiometer and a buzz motor to the back of the duckie. First I connected them into the schematic:
+
+![final schematic](<images/final_schem.png>)
+
+Then placed and traced the two new components on the actual PCB:
+
+![pcb preview](<images/pcb_preview.png>)
+
+![final pcb 3d model](<images/final_3d.png>)
+
+And NOW… I’m done!!
